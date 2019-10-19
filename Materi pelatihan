@@ -33,3 +33,6 @@ kembalikan semua yang di ubah ke head terakhir
 -> command: 
     - git revert:  membuat commit baru yang menghapus perubaha
     - git reset: menghapus perubahan pada komit sebelumnya tanpa membuat komit baru
+
+
+    asdasdasd
