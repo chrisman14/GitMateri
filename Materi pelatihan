@@ -14,6 +14,7 @@
     - git branch: menampilkan seluruh branch
     - git branch <name> : membuat branch baru
     - git checkout <name>: pindah branch
+<<<<<<< HEAD
     - git checkout -b <name> : create dan pindah ke branch baru
     - git branch -d <name>: hapus branch dengan melakukan pengecekan di repository
     - git branch -D <name>: hapus branch tanpa melakukan pengecekan di repository
@@ -36,3 +37,6 @@ kembalikan semua yang di ubah ke head terakhir
 
 
     asdasdasd
+=======
+    - git branch -b <name> : create dan pindah ke branch baru
+>>>>>>> parent of 8b0b7a1... second
