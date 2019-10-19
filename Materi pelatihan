@@ -14,4 +14,22 @@
     - git branch: menampilkan seluruh branch
     - git branch <name> : membuat branch baru
     - git checkout <name>: pindah branch
-    - git branch -b <name> : create dan pindah ke branch baru
+    - git checkout -b <name> : create dan pindah ke branch baru
+    - git branch -d <name>: hapus branch dengan melakukan pengecekan di repository
+    - git branch -D <name>: hapus branch tanpa melakukan pengecekan di repository
+
+#git merge
+-> masuk ke branch dasar terus ketik pilih branch
+
+
+#git diff
+-> conpare file sekarang dengan file yang tereckord sebelumnya
+
+#git checkout .
+kembalikan semua yang di ubah ke head terakhir
+
+#git revert
+-> membatalkan suatu record
+-> command: 
+    - git revert:  membuat commit baru yang menghapus perubaha
+    - git reset: menghapus perubahan pada komit sebelumnya tanpa membuat komit baru
